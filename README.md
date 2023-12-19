@@ -31,12 +31,14 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 
 <br>
 
+### *DASHBOARD*
+
 ![HR DASHBOARD](https://github.com/Swati-Latta/HR-ANALYSTICS-DASHBOARD/assets/134490572/bd66edf8-aeb2-4112-afc9-509069c55fed)
 
 
 # <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
 - The attrition rate is relatively low on the job role Research Director, Manager, Healthcare Representative, Manufacturing Director, and Human Resources (ordered from highest to lowest Attrition Rate)
-- 
+  
 - The majority of workers live two to five kilometers from the office. The high attrition rate seen in the chart is due to the large number of data; there is no significant association found between attrition rate and distance from home.
   
 - It can be seen that 60% of the research population is male, against 40% females. Both groups have the same distribution in age, ranging from 18 - 60.
