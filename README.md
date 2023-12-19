@@ -36,9 +36,15 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 
 # <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
 - The attrition rate is relatively low on the job role Research Director, Manager, Healthcare Representative, Manufacturing Director, and Human Resources (ordered from highest to lowest Attrition Rate)
-_ The majority of workers live two to five kilometers from the office. The high attrition rate seen in the chart is due to the large number of data; there is no significant association found between attrition rate and distance from home.
-_ It can be seen that 60% of the research population is male, against 40% females. Both groups have the same distribution in age, ranging from 18 - 60.
-The rate of attrition between male and female employees stays roughly the same at 15%.
-_ It is noticeable that the age range of 25 to 35 stands out with the most remarkable attrition rate, indicating a higher tendency of voluntary exits among all brackets. Conversely, from around 40 onwards, a downtrend was recorded, suggesting a reduced likelihood for departures. Similarly, a declining trend manifests itself starkly from the age of 25 downwards, which can most likely attributed to the probation period or introductory time span for the company.
-_ The attrition rate is specifically lower for the following positions: Research and Manufacturing Directors, Managers, HR and Healthcare representatives.
-_ It can be seen that the attrition rate is higher for employees who are paid lower, from $2000 to $4000.
+- 
+- The majority of workers live two to five kilometers from the office. The high attrition rate seen in the chart is due to the large number of data; there is no significant association found between attrition rate and distance from home.
+  
+- It can be seen that 60% of the research population is male, against 40% females. Both groups have the same distribution in age, ranging from 18 - 60.
+  
+- The rate of attrition between male and female employees stays roughly the same at 15%.
+  
+- It is noticeable that the age range of 25 to 35 stands out with the most remarkable attrition rate, indicating a higher tendency of voluntary exits among all brackets. Conversely, from around 40 onwards, a downtrend was recorded, suggesting a reduced likelihood for departures. Similarly, a declining trend manifests itself starkly from the age of 25 downwards, which can most likely attributed to the probation period or introductory time span for the company.
+
+- The attrition rate is specifically lower for the following positions: Research and Manufacturing Directors, Managers, HR and Healthcare representatives.
+
+- It can be seen that the attrition rate is higher for employees who are paid lower, from $2000 to $4000.
