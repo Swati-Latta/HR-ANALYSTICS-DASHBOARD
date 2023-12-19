@@ -2,17 +2,20 @@
 
 
 
-
-
-
-
-
 ### 🗒 Tools Used: Excel,Power BI
 
 
 
 ## 📝 Description:
 HR Analytics helps us with interpreting organizational data. It finds the people-related trends in the data and allows the HR Department to take the appropriate steps to keep the organization running smoothly and profitably. Attrition in a corporate setup is one of the complex challenges that the people managers and the HRs personnel have to deal with.
+
+# <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files| Description |
+| -------------   | ------------- |
+| **HR_Analytics_csv**  | This CSV file contains the data set of titanic tragedy.  |
+
+<br>
 
 
 
