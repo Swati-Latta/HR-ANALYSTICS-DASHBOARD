@@ -13,7 +13,7 @@ HR Analytics helps us with interpreting organizational data. It finds the people
 
 | Files| Description |
 | -------------   | ------------- |
-| **HR_Analytics_csv**  | This CSV file contains the data set of titanic tragedy.  |
+| **HR_Analytics_csv**  | This CSV file contains the data set of HR Department.  |
 
 <br>
 
